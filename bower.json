@@ -1,0 +1,25 @@
+{
+  "name": "slider",
+  "version": "0",
+  "authors": [
+    "Rajesh Bhatt <rajeshbhatt.geit@gmail.com>"
+  ],
+  "description": "Basic Slider",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "slider"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.2"
+  }
+}
