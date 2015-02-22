@@ -1,0 +1,13 @@
+.carousel{
+	position: relative;
+}
+ul , li{
+	display: inline-block;
+	list-style: none;
+}
+li{
+	width: 16%;
+}
+img{
+	width: 100%;
+}
