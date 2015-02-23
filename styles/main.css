@@ -1,13 +1,31 @@
 .carousel{
 	position: relative;
+	left: 150px;
 }
 ul , li{
 	display: inline-block;
 	list-style: none;
+	padding: 20px;
 }
 li{
 	width: 16%;
+	display: none;
 }
 img{
 	width: 100%;
+}
+.container{
+	width: 800px;
+	margin: 0 auto;	
+	position: relative;
+}
+button{
+	position: absolute;
+	display: none;
+}
+#next{
+	right: 0;
+}
+#previous{
+	left: 0;
 }
